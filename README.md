@@ -5,7 +5,7 @@ Este é um projeto de portfólio profissional desenvolvido com HTML e CSS, atrav
 
 ## 🔗 Acesso ao Projeto
 
-Você pode acessar a versão online do portfólio em: https://portfolio-modelo-er7mblsz9-carlareginadevelopers-projects.vercel.app/
+Você pode acessar a versão online do portfólio em: https://portfolio-modelo-kappa.vercel.app/
 
 ---
 
