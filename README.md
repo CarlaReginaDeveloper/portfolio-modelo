@@ -1,11 +1,11 @@
 
 # Portfólio Profissional Modelo
 
-Este é um projeto de portfólio profissional desenvolvido com HTML e CSS, atraves do Programa One, junto a Alura. O objetivo principal é apresentar as habilidades, experiências e redes sociais de Carla Regina como desenvolvedora Front-end.
+Este é um projeto de portfólio profissional desenvolvido com HTML e CSS, atraves do Programa One, junto a Alura. O objetivo principal é apresentar as habilidades, experiências como desenvolvedora Front-end.
 
 ## 🔗 Acesso ao Projeto
 
-Você pode acessar a versão online do portfólio (caso hospedado) ou visualizar os arquivos localmente abrindo o `index.html` em seu navegador.
+Você pode acessar a versão online do portfólio em: https://portfolio-modelo-er7mblsz9-carlareginadevelopers-projects.vercel.app/
 
 ---
 
@@ -43,4 +43,10 @@ Contém dois parágrafos explicando mais sobre a autora e seu percurso. A imagem
 
 ## 🙋‍♀️ Desenvolvido por
 
-**Carla Regina** 
+
+**Carla Regina**
+
+<img src="https://github.com/user-attachments/assets/cbb3cd4a-a511-49e2-96e9-eea7b9063fca" width="200" height="250" alt="foto-perfil"/>
+
+Estudante de Análise e Desenvolvimento de Sistemas e integrante do programa **ONE – Oracle Next Education**.  
+Apaixonada por tecnologia e em transição de carreira para a área de TI.
