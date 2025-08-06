@@ -37,8 +37,10 @@ Contém dois parágrafos explicando mais sobre a autora e seu percurso. A imagem
 - HTML5
 - CSS3 (com Flexbox)
 - Responsividade via Media Queries
-
-
+---
+## 💻 Demonstração do Projeto
+![gif demonstrando as funcionalidades do projeto] <br>
+<img src="https://raw.githubusercontent.com/CarlaReginaDeveloper/portfolio-modelo/main/assets/demo.gif" width="600" alt="Demonstração do projeto" />
 ---
 
 ## 🙋‍♀️ Desenvolvido por
