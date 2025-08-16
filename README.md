@@ -48,7 +48,7 @@ Contém dois parágrafos explicando mais sobre a autora e seu percurso. A imagem
 
 **Carla Regina**
 
+![Imagem de perfil de Carla Regina] <br>
 <img src="https://github.com/user-attachments/assets/cbb3cd4a-a511-49e2-96e9-eea7b9063fca" width="200" height="250" alt="foto-perfil"/>
 
-Estudante de Análise e Desenvolvimento de Sistemas e integrante do programa **ONE – Oracle Next Education**.  
-Apaixonada por tecnologia e em transição de carreira para a área de TI.
+Estudante de Análise e Desenvolvimento de Sistemas e integrante do programa **ONE – Oracle Next Education** em parceria com Alura.
